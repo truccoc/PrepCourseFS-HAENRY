@@ -1,2 +1,1 @@
-# PrepCourseFS-HAENRY
-Este es un repositorio de prueba del modulo 2 del prep course de henry
+Este es una prueba de como crear un repositorio desde github a mi computadora. 
